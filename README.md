@@ -10,3 +10,6 @@ This project is a small study case to demonstrate how to:
 - Summarize and visualize the categorized feedback for analysis.
 
 The workflow includes data collection, AI-powered categorization, and exporting results for further visualization and dashboarding.
+
+
+![image](https://github.com/user-attachments/assets/6781b5d8-2274-4af3-9900-7df2d57289a9)
